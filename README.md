@@ -1,6 +1,6 @@
 ### what`s good everybody !😊
 
-### i'm interested in.....
+### i'm interested in
 
 __Machine Learning__
 

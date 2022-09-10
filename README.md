@@ -9,7 +9,7 @@ __python__
 
 
 
-<🎇>### tech stack</🎇>
+### tech stack 🎇
 
 <img src="https://img.shields.io/badge/Python-orange?style=plastic&logo=Python&logoColor=#3776AB"/>
 

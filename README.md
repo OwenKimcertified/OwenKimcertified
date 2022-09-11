@@ -1,12 +1,13 @@
+<div align=center><h1>👋 Hi, I’m @ohbyul </h1></div>
 
 
-<div align=center> </div> ### what`s good everybody !😊
+<div align=center><h1> ### what`s good everybody !😊 </h1></div>
 
-<div align=center> </div> ### i'm interested in
+<div align=center></h1></div> ### i'm interested in </h1></div>
 
-<div align=center> </div> __Machine Learning__
+<div align=center></h1></div> __Machine Learning__ </h1></div>
 
-<div align=center> </div> __python__
+<div align=center></h1></div> __python__ </h1></div>
 
 
 

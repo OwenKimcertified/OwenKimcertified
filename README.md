@@ -1,12 +1,12 @@
-<div align=center> </div>
 
-### what`s good everybody !😊
 
-### i'm interested in
+<div align=center> </div> ### what`s good everybody !😊
 
-__Machine Learning__
+<div align=center> </div> ### i'm interested in
 
-__python__
+<div align=center> </div> __Machine Learning__
+
+<div align=center> </div> __python__
 
 
 

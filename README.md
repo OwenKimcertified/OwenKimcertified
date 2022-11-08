@@ -11,4 +11,4 @@ mail = ehdrb5719@gmail.com
 
 <img src="https://img.shields.io/badge/Python-orange?style=plastic&logo=Python&logoColor=#3776AB"/>
 
-<img src="https://img.shields.io/badge/Postgresql-orange?style=for-the-badge&logo=Postgresql&logoColor=#3776AB">
+<img src="https://img.shields.io/badge/Postgresql-orange?style=plastic&logo=Postgresql&logoColor=#3776AB">

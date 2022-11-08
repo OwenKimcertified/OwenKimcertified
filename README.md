@@ -3,7 +3,7 @@
 
 i'm interested in 
 
-Machine Learning, python, algorithm and even other language
+Machine,deep Learning, python, algorithm
 
 contact ehdrb5719@gmail.com
 

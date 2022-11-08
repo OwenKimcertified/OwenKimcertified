@@ -5,7 +5,7 @@ i'm interested in
 
 Machine Learning, python, algorithm and even other language
 
-mail = ehdrb5719@gmail.com
+contact ehdrb5719@gmail.com
 
 ### tech stack
 

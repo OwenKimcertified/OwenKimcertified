@@ -3,7 +3,7 @@
 
 i'm interested in 
 
-Data Engineering, Machine,deep Learning, python, algorithm.
+Data Engineering, Machine,deep Learning, python, algorithm. +
 
 contact ehdrb5719@gmail.com
 

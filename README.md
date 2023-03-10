@@ -3,7 +3,7 @@
 
 i'm interested in 
 
-backend(java, python), Data Engineering, Machine,deep Learning, algorithm. +
+backend(java, python), Data Engineering, Machine,deep Learning, algorithm.. +
 
 contact ehdrb5719@gmail.com
 

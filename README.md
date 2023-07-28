@@ -8,7 +8,7 @@ backend(java, python), Data Engineering, Machine,deep Learning, algorithm. +
 contact ehdrb5719@gmail.com
 
 ---------------------------
-### tech stack
+### main
 
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 

@@ -7,6 +7,10 @@ Data Engineering, backend(java), Machine,deep Learning, algorithm. +
 
 contact ehdrb5719@gmail.com
 
+1 day 1 commit 
+
+2024 / 01 / 01 ~
+
 ---------------------------
 ### main
 

@@ -7,9 +7,9 @@ Data Engineering, backend(java), Machine,deep Learning, algorithm. +
 
 contact ehdrb5719@gmail.com
 
-### 1 day 1 commit 
+### 1 day 1 commit, do not delete repository~~
 
-2024 / 02 / 01 ~
+2024 / 02 / 01 ~ 
 
 ---------------------------
 ### main
